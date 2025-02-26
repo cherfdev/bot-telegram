@@ -1,1 +1,1 @@
-worker: python kaydopKingmanhwa.py
+worker: python app/kaydopKingmanhwa.py
