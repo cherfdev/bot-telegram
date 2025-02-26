@@ -1,1 +1,1 @@
-worker: python ton_fichier_bot.py
+worker: python KaydopKingmanhwa.py
